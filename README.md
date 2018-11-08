@@ -1,2 +1,8 @@
 # births_pregs
-data to add
+
+Ahora estoy aqui queriendo...
+
+Ponle requeton para que baile
+hola aqui estamos preparando un documeto para git!!!
+
+
